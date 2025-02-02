@@ -49,5 +49,15 @@ This is a **Spring Boot** application that provides a **REST API** for managing 
 ## 👨‍💻 Contributing
 Pull requests are welcome! Open an issue for discussions.
 
-## 📜 License
-This project is licensed under the **MIT License**.
+---
+
+## 📩 Contact
+
+| Name              | Details                             |
+|-------------------|-------------------------------------|
+| **👨‍💻 Developer**   | Sachin Arora                      |
+| **💎 Email**       | [schnaror@gmail.com](mailto:schnaror@gmail.com) |
+| **📍 Location**    | Noida, India                       |
+| **📄 GitHub**      | [github.com/sachnaror](https://github.com/sachnaror?tab=repositories&q=&type=public&language=&sort=) |
+| **🌐 Website**     | [https://about.me/sachin-arora](https://about.me/sachin-arora) |
+| **📱 WhatsApp**    | [WhatsApp Me](https://wa.me/919560330483?text=Hello%20Sachin) |
